@@ -43,7 +43,7 @@ Estou animado para compartilhar meus projetos, aprender com a comunidade e contr
     title="Reacr" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/react-original.svg" 
+    src="https://camo.githubusercontent.com/e6fea164cfe9373591d8b46fd2abd05c3d74f3f400adf9b5946a47fc3eac4e13/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" 
 />
 <img 
     align="left" 
