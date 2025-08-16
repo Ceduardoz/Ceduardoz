@@ -39,6 +39,14 @@ Estou animado para compartilhar meus projetos, aprender com a comunidade e contr
 />
 <img 
     align="left" 
+    alt="React"
+    title="Reacr" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
